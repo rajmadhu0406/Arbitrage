@@ -1,0 +1,1 @@
+{"Response": "Success", "Message": "", "HasWarning": false, "Type": 100, "RateLimit": {}, "Data": {"RAW": {"ERD": {"BTC": {"CCSEQ": 7}, "USDP": {"CCSEQ": 60}, "BNB": {"CCSEQ": 7}, "USDC": {"CCSEQ": 58}, "BUSD": {"CCSEQ": 2466634}, "USDT": {"CCSEQ": 7}}}, "DISPLAY": {"ERD": {"BTC": {}, "USDP": {}, "BNB": {}, "USDC": {}, "BUSD": {}, "USDT": {}}}}}

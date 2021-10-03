@@ -1,0 +1,1 @@
+{"Response": "Success", "Message": "", "HasWarning": false, "Type": 100, "RateLimit": {}, "Data": {"RAW": {"POLY": {"BNB": {"CCSEQ": 58}, "BTC": {"CCSEQ": 4405601, "BID": 5.56e-06, "ASK": 5.57e-06}}}, "DISPLAY": {"POLY": {"BNB": {}, "BTC": {"BID": "\u0243 0.00000556", "ASK": "\u0243 0.00000557"}}}}}

@@ -1,0 +1,1 @@
+{"Response": "Success", "Message": "", "HasWarning": false, "Type": 100, "RateLimit": {}, "Data": {"RAW": {"BSV": {"USDC": {"CCSEQ": 72}, "TUSD": {"CCSEQ": 69}, "USDT": {"CCSEQ": 85}, "BTC": {"CCSEQ": 86}}}, "DISPLAY": {"BSV": {"USDC": {}, "TUSD": {}, "USDT": {}, "BTC": {}}}}}

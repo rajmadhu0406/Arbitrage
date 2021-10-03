@@ -1,0 +1,1 @@
+{"Response": "Success", "Message": "", "HasWarning": false, "Type": 100, "RateLimit": {}, "Data": {"RAW": {"LEND": {"BTC": {"CCSEQ": 7}, "ETH": {"CCSEQ": 7}, "USDT": {"CCSEQ": 17014765}, "BKRW": {"CCSEQ": 217895}, "BUSD": {"CCSEQ": 2054961}}}, "DISPLAY": {"LEND": {"BTC": {}, "ETH": {}, "USDT": {}, "BKRW": {}, "BUSD": {}}}}}
