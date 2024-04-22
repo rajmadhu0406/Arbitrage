@@ -14,4 +14,4 @@ https://min-api.cryptocompare.com/documentation.
 ### Note
 
 This algorithm can not be used in the real world as it takes some time to calculate the result, and while doing so, it works on a snapshot of the cryptocurrency price data and not the realtime
-price. Also, the window for trading crypto for the arbitrage to actually work is very narrow. Hence it is not possible to find arbitrage in real time.
+price. But I have tried to keep the fetching and preprocessing of data in almost real-time using multi-threading, so the results are almost in real-time!!!
